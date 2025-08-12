@@ -183,10 +183,6 @@ Claude Desktop 설정에서 직접 환경변수를 설정합니다.
 - `typescript`: TypeScript 컴파일러
 - `tsx`: TypeScript 실행기
 
-## 라이선스
-
-MIT
-
 ## MCP 서버 실행 방법
 ```bash
 npm install && npm run build && npm start
